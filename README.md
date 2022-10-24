@@ -1,4 +1,4 @@
-![logo](https://github.com/ajaygs1998/ajaygs1998/blob/main/Wecome%20to%20Repo%20(2).gif)
+<div align ="center">![logo](https://github.com/ajaygs1998/ajaygs1998/blob/main/Wecome%20to%20Repo%20(2).gif)</div>
 <h1 align="center">Hi 👋, I'm Ajay Suryawanshi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygs1998&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygs1998" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajaygs1998?tab=repositories](https://github.com/ajaygs1998?tab=repositories)
+
+- ⚡ Fun fact **I am funny😅**
 
 - 🌱 I’m currently learning **AWS,DevOps**
 
