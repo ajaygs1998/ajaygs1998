@@ -1,4 +1,4 @@
-<div align ="center">![logo](https://github.com/ajaygs1998/ajaygs1998/blob/main/Wecome%20to%20Repo%20(2).gif)</div>
+![logo](https://github.com/ajaygs1998/ajaygs1998/blob/main/Wecome%20to%20Repo%20(2).gif)
 <h1 align="center">Hi 👋, I'm Ajay Suryawanshi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -8,28 +8,22 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajaygs1998?tab=repositories](https://github.com/ajaygs1998?tab=repositories)
 
-- ⚡ Fun fact **I am funny😅**
 
 - 🌱 I’m currently learning **AWS,DevOps**
-
-
-
-- 📝 I regularly write articles on [https://medium.com/@ajaygs1998](https://medium.com/@ajaygs1998)
-
 - 💬 Ask me about **java, angular, MySQL...**
-
 - 📫 How to reach me **ajaygs1998@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jTXsNhYnUAiUwhkfBftHC9NSmG0uDbhk/view?usp=sharing](https://drive.google.com/file/d/1jTXsNhYnUAiUwhkfBftHC9NSmG0uDbhk/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I am funny😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/ajay-1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-1998" height="30" width="40" /></a>
-<a href="https://medium.com/@ajaygs1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaygs1998" height="30" width="40" /></a>
+
+<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/ajay__suryawanshi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/ajaygs1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaygs1998" height="30" width="40" /></a>
 </p>
 
