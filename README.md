@@ -1,14 +1,16 @@
 ![logo](https://github.com/ajaygs1998/ajaygs1998/blob/main/Wecome%20to%20Repo%20(2).gif)
 <h1 align="center">Hi 👋, I'm Ajay Suryawanshi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="center" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygs1998&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygs1998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaygs1998" alt="ajaygs1998" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/ajaygs1998?tab=repositories](https://github.com/ajaygs1998?tab=repositories)
 
 - 🌱 I’m currently learning **AWS,DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajaygs1998?tab=repositories](https://github.com/ajaygs1998?tab=repositories)
+
 
 - 📝 I regularly write articles on [https://medium.com/@ajaygs1998](https://medium.com/@ajaygs1998)
 
