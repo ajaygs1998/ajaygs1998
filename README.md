@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ajay-1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/ajay__suryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+
   <a href="https://www.leetcode.com/ajaygs1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaygs1998" height="30" width="40" /></a>
 </p>
 
@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaygs1998&show_icons=true&locale=en" alt="ajaygs1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaygs1998&" alt="ajaygs1998" /></p>
-
-
