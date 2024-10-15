@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **AWS,DevOps**
 - 💬 Ask me about **java, angular, MySQL...**
 - 📫 How to reach me **ajaygs1998@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jTXsNhYnUAiUwhkfBftHC9NSmG0uDbhk/view?usp=sharing](https://drive.google.com/file/d/1jTXsNhYnUAiUwhkfBftHC9NSmG0uDbhk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ec7bwymm9Vkk5VbgKTsVjRkP-QSP_tKE/view?usp=sharing]
 
 - ⚡ Fun fact **I am funny😅**
 <h3 align="left">Connect with me:</h3>
